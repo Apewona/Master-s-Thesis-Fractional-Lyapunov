@@ -13,6 +13,7 @@ Białystok, 2025
 
 ## Language 
 Polish
+
 ---
 
 ## Abstract
